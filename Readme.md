@@ -72,3 +72,12 @@ _You **can** combine them_
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+## 四、链接  
+```
+![logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
+`>>>`
+![logo](/images/logo.png)
+![Baidu](https://www.baidu.com/)
