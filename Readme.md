@@ -1,4 +1,5 @@
-<center><h1> Header</h1></center>  
+<center> Header</center> 
+=========================
 
 下面是Markdwown的语法概述。  
 ## 标题  
