@@ -89,7 +89,6 @@ Html format:
 ## 五、块引用
 ```
 As Kanye West said:
-
 > We're living the future so
 > the present is our past.
 ```  
@@ -97,3 +96,24 @@ As Kanye West said:
 As Kanye West said:  
 > We're living the future so  
 > the present is our past.  
+
+## 六、行类代码
+```
+I think you should use an `<addr>` element here instead.
+```
+`>>>`  
+I think you should use an `<addr>` element here instead.  
+
+## 七、语法高亮
+```python
+def test(a, b=1, *args):
+    sum_ = a + b
+    for arg in args:
+        sum_ += arg
+    return sum_, locals()
+sum_, locals_ = test(1, 2, 3, 4)
+>>>print(sum)
+10
+>>>print(locals)
+{'arg': 4, 'sum_': 10, 'args': (3, 4), 'b': 2, 'a': 1}
+```
