@@ -106,6 +106,10 @@ I think you should use an `<addr>` element here instead.
 
 ## 七、语法高亮
 ```python
+# ```python
+# <python script>
+# ```
+
 # python with syntax highlighting
 def test(a, b=1, *args):
     sum_ = a + b
