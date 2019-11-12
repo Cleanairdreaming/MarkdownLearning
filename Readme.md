@@ -135,13 +135,19 @@ sum_, locals_ = test(1, 2, 3, 4)
 
 ## 八、任务列表
 ```
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
+  - [x] HTML
+  - [x] CSS
+  - [x] JavaScript
 - [ ] this is an incomplete item
 ```  
 `>>>`  
-- [x] @mentions, #八、任务列表, [links](#八、任务列表), **formatting**, and <del>tags</del> supported
+- [x] @mentions, [links](#八、任务列表), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
+  - [x] HTML
+  - [x] CSS
+  - [x] JavaScript
 - [ ] this is an incomplete item
