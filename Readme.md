@@ -132,3 +132,16 @@ sum_, locals_ = test(1, 2, 3, 4)
 >>>print(locals)
 {'arg': 4, 'sum_': 10, 'args': (3, 4), 'b': 2, 'a': 1}
 ```
+
+## 七、任务列表
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+```  
+`>>>`  
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
