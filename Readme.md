@@ -1,4 +1,4 @@
-<center><h1> 语法指南</h1></center> 
+<center><h1> # 语法指南</h1></center>   
 下面是Markdwown的语法概述。  
 ## 标题  
 ### 1 Setext形式  
