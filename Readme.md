@@ -1,4 +1,4 @@
-<center> Header</center>   
+语法简介
 =============================
 
 下面是Markdwown的语法概述。  
