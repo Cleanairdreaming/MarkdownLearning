@@ -79,5 +79,6 @@ _You **can** combine them_
 Format: ![Alt Text](url)
 ```
 `>>>`
-![logo](/images/logo.png)
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![logo](/images/logo.png)  
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75" hegiht="75" align=center />
