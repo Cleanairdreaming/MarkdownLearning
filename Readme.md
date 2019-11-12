@@ -2,7 +2,7 @@
 =============================
 
 下面是Markdwown的语法概述。  
-## 标题  
+## 一、标题  
 ### 1 Setext形式  
 代码  
 ```markdown
@@ -12,7 +12,7 @@ H2
 ---
 =和-的数量无限制，只支持两级标题。
 ```  
-输出  
+>>>  
 
 H1
 ===
@@ -25,7 +25,28 @@ H2
 ## 二级标题
 ###### 6级标题
 ```  
-输出  
+>>>  
 # 一级标题  
 ## 二级标题  
 ###### 6级标题  
+
+# 二、强调  
+```markdown
+斜体、黑体及两者结合
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+```  
+>>>
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
