@@ -80,5 +80,5 @@ Format: ![Alt Text](url)
 ```
 `>>>`
 ![logo](/images/logo.png)  
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =75)  
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =75x)  
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75" hegiht="75" align=center />
