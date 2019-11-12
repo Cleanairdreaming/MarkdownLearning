@@ -80,4 +80,4 @@ Format: ![Alt Text](url)
 ```
 `>>>`
 ![logo](/images/logo.png)
-![Baidu](https://www.baidu.com/)
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
