@@ -118,3 +118,17 @@ sum_, locals_ = test(1, 2, 3, 4)
 >>>print(locals)
 {'arg': 4, 'sum_': 10, 'args': (3, 4), 'b': 2, 'a': 1}
 ```
+
+```
+# python without syntax highlighting
+def test(a, b=1, *args):
+    sum_ = a + b
+    for arg in args:
+        sum_ += arg
+    return sum_, locals()
+sum_, locals_ = test(1, 2, 3, 4)
+>>>print(sum)
+10
+>>>print(locals)
+{'arg': 4, 'sum_': 10, 'args': (3, 4), 'b': 2, 'a': 1}
+```
