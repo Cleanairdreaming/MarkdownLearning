@@ -34,8 +34,8 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+>>>
 ```  
-输出`>>>`  
 *This text will be italic*
 _This will also be italic_
 
@@ -55,11 +55,11 @@ _You **can** combine them_
 ### 有序列表  
 ```
 1. Item 1
-2. Item 2
-3. Item 3
+1. Item 2
+1. Item 3
    1. Item 3a
-   2. Item 3b
-
+   1. Item 3b
+>>>
 ```
 1. Item 1
 1. Item 2
