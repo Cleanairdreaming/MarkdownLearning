@@ -1,7 +1,7 @@
 MarkDown语法简介
 =============================
 
-[T<!-- TOC -->autoauto- [一、标题](#一标题)auto    - [1 Setext形式](#1-setext形式)auto    - [2 atx形式](#2-atx形式)auto- [二、强调](#二强调)autoauto<!-- /TOC -->OC]
+<!-- TOC -->autoauto- [一、标题](#一标题)auto    - [1 Setext形式](#1-setext形式)auto    - [2 atx形式](#2-atx形式)auto- [二、强调](#二强调)autoauto<!-- /TOC -->
 
 下面是Markdwown的语法概述。  
 
