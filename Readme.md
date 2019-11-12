@@ -12,7 +12,7 @@ H2
 ---
 =和-的数量无限制，只支持两级标题。
 ```  
->>>  
+输出`>>>`  
 
 H1
 ===
@@ -25,12 +25,13 @@ H2
 ## 二级标题
 ###### 6级标题
 ```  
->>>  
+输出`>>>`    
 # 一级标题  
 ## 二级标题  
 ###### 6级标题  
 
-# 二、强调  
+
+## 二、强调  
 ```markdown
 斜体、黑体及两者结合
 *This text will be italic*
@@ -41,7 +42,7 @@ __This will also be bold__
 
 _You **can** combine them_
 ```  
->>>
+输出`>>>`  
 *This text will be italic*
 _This will also be italic_
 
