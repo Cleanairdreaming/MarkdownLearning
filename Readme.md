@@ -162,9 +162,22 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+It seems like that, github doesn't support tables.
 ```
 `>>>`  
 | First Header | Second Header  |  
 | ------------ | -------------  |  
 | Content from cell 1 | Content from cell 2  |  
 | Content in the first column | Content in the second column  |  
+
+<table border="1">  
+  <tr>  
+    <th>Month</th>  
+    <th>Savings</th>  
+  </tr>  
+  <tr>  
+    <td>January</td>  
+    <td>$100</td>  
+  </tr>  
+</table>  
