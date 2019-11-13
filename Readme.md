@@ -139,7 +139,7 @@ sum_, locals_ = test(1, 2, 3, 4)
 
 ## 八、任务列表
 ```
-- [x] @mentions, [links](), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #ref [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
   - [x] HTML
@@ -148,7 +148,7 @@ sum_, locals_ = test(1, 2, 3, 4)
 - [ ] this is an incomplete item
 ```  
 `>>>`  
-- [x] @mentions, [links](#八、任务列表), **formatting**, and <del>tags</del> supported
+- [x] @mentions, #:smile:, [links](#八、任务列表), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
   - [x] HTML
