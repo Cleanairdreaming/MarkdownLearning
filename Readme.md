@@ -184,6 +184,7 @@ It seems like that, github doesn't support tables.
   </tr>  
 </table> 
 ```
+`>>>`  
 <table border="1">  
   <tr>  
     <th>Month</th>  
