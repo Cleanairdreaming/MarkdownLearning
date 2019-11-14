@@ -97,7 +97,7 @@ As Kanye West said:
 > We're living the future so  
 > the present is our past.  
 
-## 六、行类代码
+## 六、行内代码
 ```
 I think you should use an `<addr>` element here instead.
 ```
