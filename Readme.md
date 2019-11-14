@@ -159,7 +159,7 @@ sum_, locals_ = test(1, 2, 3, 4)
 Emoji 可参考[Github emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)和[webfx](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## 九、表格
-* Markdown synopsis
+* Markdown synopsis  
 1）|、-、:之间的多余空格会被忽略，不影响布局。  
 2）默认标题栏居中对齐，内容居左对齐。  
 3）-:表示内容和标题栏居右对齐，:-表示内容和标题栏居左对齐，:-:表示内容和标题栏居中对齐。  
