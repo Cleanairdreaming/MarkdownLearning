@@ -159,13 +159,30 @@ sum_, locals_ = test(1, 2, 3, 4)
 Emoji 可参考[Github emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)和[webfx](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## 九、表格
+* Markdown synopsis
+1）|、-、:之间的多余空格会被忽略，不影响布局。
+2）默认标题栏居中对齐，内容居左对齐。
+3）-:表示内容和标题栏居右对齐，:-表示内容和标题栏居左对齐，:-:表示内容和标题栏居中对齐。
+4）内容和|之间的多余空格会被忽略，每行第一个|和最后一个|可以省略，-的数量至少有一个。
+表格1-4条的语法参考[橡皮24的简书博客](https://www.jianshu.com/p/b0f56b7d7ee8)
+
 ```markdown
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-It seems like that, github doesn't support tables.
+| First Header | Second Header  |  
+| ------------ | -------------  |  
+| Content from cell 1 | Content from cell 2  |  
+| Content in the first column | Content in the second column  | 
+
+| First Header | Second Header  |  
+| :-: | :-: |  
+| Content from cell 1 | Content from cell 2  |  
+| Content in the first column | Content in the second column  | 
+
+Important! Empty line need before the table.
 ```
 `>>>`  
 
@@ -174,6 +191,12 @@ It seems like that, github doesn't support tables.
 | Content from cell 1 | Content from cell 2  |  
 | Content in the first column | Content in the second column  |  
 
+| First Header | Second Header  |  
+| :-: | :-: |  
+| Content from cell 1 | Content from cell 2  |  
+| Content in the first column | Content in the second column  | 
+
+* Html supported
 ```html
 <!-- use html Synopis instead -->
 <table border="1">  
